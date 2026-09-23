@@ -25,7 +25,7 @@ https://github.com/manishmanav/Credit-vise-loan/blob/main/creditvise_loan_data.c
 4. Run all cells.
 
 ## Repository
-https://github.com/shivamkaushik762-commits/Loan-Approved-
+https://github.com/manishmanav/Credit-vise-loan.git
 
 ## Author
 **Manish**

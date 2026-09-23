@@ -21,11 +21,11 @@ https://github.com/manishmanav/Credit-vise-loan/blob/main/creditvise_loan_data.c
 ## How to Run
 1. Clone this repository.
 2. Install the required libraries.
-3. Open `Loan_Approval_Prediction.ipynb` in Jupyter Notebook.
+3. Open `Manish_code.ipynb` in Jupyter Notebook.
 4. Run all cells.
 
 ## Repository
-https://github.com/manishmanav/Credit-vise-loan.git
+https://github.com/manishmanav/Credit-vise-loan
 
 ## Author
 **Manish**
